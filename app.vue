@@ -2,7 +2,7 @@
   <div class="m-4">
     <FormKit
       type="text"
-      label="Username"
+      label="name"
       :validation="[
         ['required'],
         ['length', 3, 20],

@@ -10,9 +10,9 @@
       ]"
       validation-visibility="live"
       :validation-messages="{
-        matches: 'Please enter a valid Username.',
+        matches: 'Please enter a valid name.',
       }"
-      placeholder="Enter your Username..."
+      placeholder="Enter your name..."
     />
   </div>
 </template>
